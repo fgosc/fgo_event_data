@@ -1,0 +1,1 @@
+# fgo_event_data
